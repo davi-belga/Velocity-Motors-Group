@@ -39,10 +39,11 @@ Passo 2: Combinação das Dimensões
 - Preço médio por fabricante
 - Preço médio por modelo
 - Média de quilometro por modelo
-- Premissas do negócio
-    - **Varejo de Bens Duráveis:** O modelo principal é o **Varejo de Alto Valor/Baixa Frequência de Compra** (Venda de Carros)
+
+## Premissas do negócio
+- **Varejo de Bens Duráveis:** O modelo principal é o **Varejo de Alto Valor/Baixa Frequência de Compra** (Venda de Carros)
     
-    Visão do negócio: visão vendas, visão faturamento, detalhamento
+     Visão do negócio: visão vendas, visão faturamento, detalhamento
     
 ## Estratégia da solução
     
