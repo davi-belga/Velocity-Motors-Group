@@ -1,13 +1,20 @@
+
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_ab9j70ab9j70ab9j" src="https://github.com/user-attachments/assets/a17e1d58-4650-4650-9ccc-8169abe76393" />
+
+
+
 # Problema de negócio
     
 O Velocity Motors Group é uma rede de concessionárias multimarca estabelecida em estados-chave do Sudoeste e da Costa Oeste dos Estados Unidos (focando em alto volume e diversidade de portfólio, especialmente importados). A empresa compete em um mercado altamente volátil, pressionado pela transição para veículos elétricos e por constantes desafios na cadeia de suprimentos.
     
-  ## O Problema de Negócio (O Desafio de Gestão)
+ O Problema de Negócio (O Desafio de Gestão)
     
-  Como a Diretoria de Vendas e o Head de Operações podem otimizar o mix de fabricantes e modelos (Toyota, Ford, VW, BMW e Porsche) para garantir que as ações de estoque e marketing estejam alinhadas à **máxima rentabilidade.**
+  Como a Diretoria de Vendas e o Head de Operações podem otimizar o mix de fabricantes e modelos (Toyota, Ford, VW, BMW e Porsche) para garantir que as ações de estoque e marketing estejam alinhadas à máxima rentabilidade,
+  não temos clareza sobre onde o lucro está sendo realmente gerado e onde estamos perdendo eficiência. Nossas ações de marketing e estoque ainda são baseadas em feeling, e não em dados concretos sobre o mix de produtos mais rentável.
     
     
-  # Dado da empresa
+  ## Dado da empresa
     
 
 Análise Descritiva
@@ -22,7 +29,7 @@ Passo 1 Coluna:
 - Preço
 - Tamanho do motor
 
-Passo 3: Combinação das Dimensões
+Passo 2: Combinação das Dimensões
 
 - Quantidade de Vendas por fabricante
 - Quantidade de Vendas por modelo
@@ -45,7 +52,7 @@ Passo 3: Combinação das Dimensões
   - Visão Faturamento
   - Detalhamento
     
-   # Cada visão é representada pelo seguinte conjunto de métricas.
+   ### Cada visão é representada pelo seguinte conjunto de métricas.
     
   1. Visão vendas
       1. Quantidade de Vendas
@@ -101,8 +108,8 @@ Passo 3: Combinação das Dimensões
     
   O objetive desse projeto é cria um conjunto de gráficos ou tabela que exibam essas métricas da melhor forma possível para o CEO.
     
-  A principal conclusão é que, para responder ao desafio de gestão, a empresa deve adotar uma **Estratégia de Portfólio Dupla (Volume Rentável e Valor Premium)** e iniciar imediatamente a **Reorientação do Foco de Combustível**.
+  A principal conclusão é que, para responder ao desafio de gestão, a empresa deve adotar uma **Estratégia de Portfólio Dupla (Volume Rentável e Valor Premium)**.
     
   1. **Otimização Financeira:** Direcionar os maiores investimentos de marketing e estoque para os fabricantes de **Alto Valor/Faturamento** (Toyota, BMW, Porsche), enquanto a Ford e VW devem ser geridas primariamente para **ganho de *share* e eficiência operacional**, e não como fontes primárias de lucro líquido
     
-  2. **Preparação para o Futuro:** O risco do negócio está na matriz energética. É crucial investir na expansão da linha **Híbrida** para capitalizar o seu crescimento de 22%# Velocity-Motors-Group
+  2. **Preparação para o Futuro:** O risco do negócio está na matriz energética. É crucial investir na expansão da linha **Híbrida** para capitalizar o seu crescimento de 22% Velocity-Motors-Group
