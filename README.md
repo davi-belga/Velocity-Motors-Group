@@ -73,7 +73,7 @@ Passo 2: Combinação das Dimensões
       3. Faturamento
       4. Média de preço
       5. Quantidade venda
-# Top 4 insights de dados
+# Top 3 insights de dados
   1. Auto vendido por fabricante
         
      Toyota Lidera em Faturamento, mas Ford e VW Lideram em Volume de Vendas
