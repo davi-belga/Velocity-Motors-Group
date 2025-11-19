@@ -1,4 +1,4 @@
-
+# Maximização de Lucratividade
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_ab9j70ab9j70ab9j" src="https://github.com/user-attachments/assets/a17e1d58-4650-4650-9ccc-8169abe76393" />
 
